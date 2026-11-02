@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+tf-env/
+.env
+*.zip
+*.h5
+*.keras
+*.pth
